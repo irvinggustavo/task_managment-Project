@@ -1,0 +1,12 @@
+.note {
+  border-bottom: 'solid, 1px'; 
+  text-align: 'left'
+}
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: inline;
+}
